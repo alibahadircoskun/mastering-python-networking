@@ -22,4 +22,4 @@ This repository serves as both a learning log and a practical portfolio of netwo
 - Apply Ansible in production-style structures  
 - Work with containers and modern lab environments  
 - Explore monitoring, security, cloud networking, CI/CD, and testing  
-- Document everything clearly and professionally  
+
