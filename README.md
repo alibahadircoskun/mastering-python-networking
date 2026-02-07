@@ -1,4 +1,4 @@
-# Network Automation Journey with Python
+# Network Automation with Python
 
 This repository documents my hands-on journey through a modern network automation and programmability workflow using Python and real lab environments.
 
