@@ -1,4 +1,4 @@
-# Chapter 2: Pexpect
+# Pexpect
 
 ## Overview
 This chapter explores automating CLI-based network device interactions using Python's Pexpect library. While modern network automation increasingly relies on APIs and declarative tools, understanding low-level SSH/Telnet automation remains essential for legacy devices, emergency situations, and understanding how higher-level tools work under the hood.
